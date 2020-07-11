@@ -1,0 +1,9 @@
+#carouselExampleSlidesOnly{
+	height: 500px;
+	overflow: hidden;
+}
+
+#carouselExampleSlidesOnly .carousel-inner .carousel-item img{
+	background-size: cover;
+	background-position: 0 -100px;
+}
